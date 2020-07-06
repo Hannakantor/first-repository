@@ -103,12 +103,9 @@ h3{
     
 }
 
-a.readmore:hover, a.readmore:active{
-    color: #005ca0;
-  }
+/* a.readmore:hover, a.readmore:active{ */
+    /* color: #005ca0; */
   
-
-
 
 .direction{
     position: absolute;
@@ -124,6 +121,16 @@ a.readmore:hover, a.readmore:active{
     font-size: 13px;
 }
 
+.dis{
+    color: #72716d;
+}
+
+   
+
+ 
+a.dis:hover, a.dis:active{
+    color: #005ca0;
+  }
 
 .pratim{
     color: #72716d;
@@ -163,24 +170,23 @@ a.pratim:hover, a.pratim:active{
     
 }
 
+.menu-list li a:hover{
+color:#005ca0;
+text-decoration: underline;
+}
+
+
+
 a:hover {
 color:#005ca0;
     
 }
     
 
-
-
-
-
-
 .flex{
     display: flex;
 }
 
-.dropdown-content{
-
-}
 
 .content2 h3{
     position: absolute;
